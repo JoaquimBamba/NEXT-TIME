@@ -5,7 +5,7 @@ editor: visual
 ---
 
 
-## Exercice 1
+## Exercice 2
 
 ```{r, echo=FALSE, warning=FALSE, results='hide', message = FALSE}
 library(here)
